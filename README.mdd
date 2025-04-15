@@ -1,0 +1,34 @@
+# FC Barcelona Database Project
+
+This is a university project I completed during my Introduction to Databases course. The goal was to create a full database system for a real-world organization. I chose FC Barcelona and focused on their financial data, building a small-scale database solution that includes schema creation, data insertion, querying, and analysis.
+
+## Project Overview
+
+- I started by writing the concept and goals of the project.
+- Then I created the database schema using SQL, followed by inserting data manually.
+- After the database was ready, I ran queries to extract insights.
+- I also created a few visualizations using Python to make the analysis clearer.
+- Finally, I put together a presentation based on the results.
+
+## What's Inside
+
+- `docs/` – The concept document and FC Barcelona’s financial report for context.
+- `sql/` – SQL scripts for creating the database, inserting data, and running queries.
+- `visualizations/` – Graphs and a Jupyter notebook with Python code.
+- `presentation/` – A PowerPoint and notes for presenting the project.
+
+## Tools Used
+
+- SQL (SQLite)
+- Python (Jupyter Notebook, Matplotlib)
+- PowerPoint
+
+## What I Learned
+
+This project helped me practice everything from writing SQL to working with real data and explaining the results in a simple way. It also improved how I present technical work to others.
+
+---
+
+Created by Emmanuel Ejiohuo  
+[LinkedIn](http://linkedin.com/in/emmanuel-ejiohuo) | [GitHub](https://github.com/EmmanueltheAnalyst23)
+
