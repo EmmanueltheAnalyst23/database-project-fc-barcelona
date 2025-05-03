@@ -1,33 +1,33 @@
 FC Barcelona Database Project
+This university project was created during my Introduction to Databases course. The objective was to design a small-scale relational database for a real organization — I chose FC Barcelona and focused on their financial operations.
 
-This is a university project I completed during my Introduction to Databases course. The goal was to create a full database system for a real-world organization. I chose FC Barcelona and focused on their financial data, building a small-scale database solution that includes schema creation, data insertion, querying, and analysis.
+Project Steps:
 
-Project Overview
+Defined the project goals and data structure
 
-- I started by writing the concept and goals of the project.
-- Then I created the database schema using SQL, followed by inserting data manually.
-- After the database was ready, I ran queries to extract insights.
-- I also created a few visualizations using Python to make the analysis clearer.
-- Finally, I put together a presentation based on the results.
+Built the schema using SQL and manually inserted sample data
 
-What's Inside
+Queried the database to extract insights on revenue, expenses, and key statistics
 
-- docs – The concept document and FC Barcelona’s financial report for context.
-- sql – SQL scripts for creating the database, inserting data, and running queries.
-- visualizations – Graphs and a Jupyter notebook with Python code.
-- presentation – A PowerPoint and notes for presenting the project.
+Created visualizations using Python (matplotlib) for clearer presentation
 
- Tools Used
+Prepared a summary presentation to explain findings
 
-- SQL (SQLite)
-- Python (Jupyter Notebook, Matplotlib)
-- PowerPoint
+What’s Included:
 
- What I Learned
+docs/ – Concept note and context around FC Barcelona’s finances
 
-This project helped me practice everything from writing SQL to working with real data and explaining the results in a simple way. It also improved how I present technical work to others.
+sql/ – SQL scripts for schema creation, data insertion, and queries
 
+visualizations/ – Jupyter Notebook with Python graphs
 
-Created by Emmanuel Ejiohuo  
-[LinkedIn](http://linkedin.com/in/emmanuel-ejiohuo) | [GitHub](https://github.com/EmmanueltheAnalyst23)
+presentation/ – PowerPoint slides and speaking notes
+
+Tools Used:
+
+SQL (SQLite)
+
+Python (matplotlib, Jupyter Notebook)
+
+PowerPoint
 
