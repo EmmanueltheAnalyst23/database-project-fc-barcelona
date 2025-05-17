@@ -12,7 +12,6 @@ What’s Included:
 	•	sql/ – SQL scripts for building the schema, inserting data, and running queries
 	•	visualizations/ – Python notebook with graphs and summaries
 	•	presentation/ – PowerPoint slides with speaker notes
-
 Tools Used:
 	•	SQL (SQLite)
 	•	Python (matplotlib, Jupyter Notebook)
