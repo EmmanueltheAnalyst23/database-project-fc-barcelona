@@ -1,27 +1,19 @@
 FC Barcelona Database Project:
-
 This university project was developed during my Introduction to Databases course. The goal was to design a small-scale relational database for a real organization. I chose FC Barcelona, focusing on their financial operations and performance data.
 
-⸻
-
-Project Highlights
+Project Highlights:
 	•	Defined project objectives and mapped out the data structure
 	•	Built the database schema and inserted sample data using SQL
 	•	Wrote queries to analyze revenue, expenses, and performance metrics
 	•	Created visualizations in Python (using matplotlib) to present key insights
 	•	Delivered a summary presentation to explain the findings
-
-⸻
-
-What’s Included
+What’s Included:
 	•	docs/ – Concept note with context on FC Barcelona’s financials
 	•	sql/ – SQL scripts for building the schema, inserting data, and running queries
 	•	visualizations/ – Python notebook with graphs and summaries
 	•	presentation/ – PowerPoint slides with speaker notes
 
-⸻
-
-Tools Used
+Tools Used:
 	•	SQL (SQLite)
 	•	Python (matplotlib, Jupyter Notebook)
 	•	PowerPoint
